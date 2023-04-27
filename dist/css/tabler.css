@@ -3835,6 +3835,7 @@ textarea.form-control-lg {
 
 .dropdown-menu.show {
   display: block;
+  transform: translate(0px,38px);
 }
 
 .dropdown-header {
